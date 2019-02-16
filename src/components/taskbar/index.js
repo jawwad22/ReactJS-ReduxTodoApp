@@ -10,3 +10,5 @@ class TaskBar extends React.Component{
         )
     }
 }
+
+export default TaskBar
